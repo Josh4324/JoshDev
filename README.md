@@ -1,14 +1,14 @@
 # MY DETAILS
 
-**fullname**
+**Fullname**
 
 ### ADESANYA JOSHUA AYODEJI
 
-**email**
+**Email**
 
 ### adesanyajoshua@ymail.com
 
-**slack username**
+**Slack username**
 
 ### JoshDev
 
